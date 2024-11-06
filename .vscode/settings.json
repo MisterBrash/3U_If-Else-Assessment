@@ -38,7 +38,7 @@
         "LICENSE": true,
         ".devcontainer/": true,
         ".vscode/": true,
-        "Lessons/": true
+        "Lessons/": false
     },
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor"
