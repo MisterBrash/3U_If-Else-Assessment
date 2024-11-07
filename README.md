@@ -5,8 +5,8 @@
 ### Read Carefully:
 
 - No talking to classmates. No use of AI or code generators.  
-- Google the solution won't help, this task is specific.  
-- W3Schools and code reference sites are allowed.
+- Googling the solution won't help, most of this task is too specific.  
+- W3Schools and code reference sites _are_ allowed.
 
 #### [`index.html`](index.html)
 
