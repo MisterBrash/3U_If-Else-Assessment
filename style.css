@@ -6,11 +6,22 @@
 /* Using font-size: larger to make things pop. Feel free to change. */
 body {
     margin: 30px;
-    font-size: x-large;
 }
 
-button {
-    font-size: xx-large;
-    font-weight: bolder;
-    padding: 10px;
+hr {
+  border:none;
+  height:3px;
+  background-color:darkred;
+}
+
+*{
+  font-size:x-large;
+}
+
+.right {
+  text-align: end;
+}
+
+a {
+  font-size: small;
 }
